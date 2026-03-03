@@ -1,0 +1,8 @@
+{
+  "name": "Remix: TxopelaTv: O Seu Mundo em Movimento",
+  "description": "Plataforma de streaming e notícias moçambicana - O Seu Mundo em Movimento.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
