@@ -10,8 +10,7 @@ import {
   Youtube, 
   Instagram, 
   Lock, 
-  Users,
-  Play
+  Users
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
